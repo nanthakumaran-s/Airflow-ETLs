@@ -1,0 +1,7 @@
+.vscode
+.env
+logs
+.DS_Store
+airflow_settings.yaml
+__pycache__/
+astro
